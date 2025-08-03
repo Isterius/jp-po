@@ -14,7 +14,7 @@ gcloud services enable run.googleapis.com
 
 ## Features
 
-* **Flask**: Web server framework
+* **Flask**: Web server framework!
 * **Buildpack support** Tooling to build production-ready container images from source code and without a Dockerfile
 * **Dockerfile**: Container build instructions, if needed to replace buildpack for custom build
 * **SIGTERM handler**: Catch termination signal for cleanup before Cloud Run stops the container
